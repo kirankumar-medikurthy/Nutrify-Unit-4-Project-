@@ -12,6 +12,7 @@ function verifyToken(token) {
     })
 }
 
+// HERE MAINLY CHECK FOR THE AUTHENTICATION OF A SPECIFIC USER BASED ON THEIR ROLES
 
 async function authenticate(req, res, next) {
     // check we hava received bearer token in the header;

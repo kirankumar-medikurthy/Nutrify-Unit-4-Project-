@@ -1,3 +1,5 @@
+//HERE MAINLY CHECK FOR THE USER HAS SPECIFIC ROLES OR NOT
+
 function authorize(permissionRoles) {
     return (req, res, next) => {
 
