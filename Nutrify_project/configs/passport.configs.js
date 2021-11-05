@@ -10,7 +10,7 @@ const { v4: uuidV4 } = require('uuid');
 
 const { newToken } = require('../controller/auth.controller')
 
-
+// Main details based on the passport npm package requirement plugins are there
 
 passport.use(new GoogleStrategy({
         clientID: process.env.GOOGLE_CLIENT_ID,
