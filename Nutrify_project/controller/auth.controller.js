@@ -7,7 +7,7 @@ const userModel = require('../models/user.model');
 const newToken = (user) => {
     return jwt.sign({ user }, process.env.JWT_SECRET_KEY);
 }
-
+// Here mainly contain users registration data;
 const register = async(req, res) => {
     let user;
     try {

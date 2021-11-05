@@ -9,6 +9,7 @@ const authorize = require("../middlewars/authorize.middlewar");
 
 const categoryModel = require('../models/categorys.model');
 
+//CRUD OPEARTION REGARDING TO THE CATEGORY CONTROLLERS
 
 const router = express.Router();
 

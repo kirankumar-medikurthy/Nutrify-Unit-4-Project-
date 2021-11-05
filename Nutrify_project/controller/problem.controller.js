@@ -20,6 +20,8 @@ router.get("",authenticate, authorize(["user","admin"]),body("problem_name").not
     }
 })
 
+// CRUD OPERATION FOR THE PROBLEM CONTROLLER ARE DECLARED BELOW
+
 router.post("",authenticate, authorize(["admin"]),async(req, res)=>{
     const errors = validationResult(req);
     if (!errors.isEmpty()) {

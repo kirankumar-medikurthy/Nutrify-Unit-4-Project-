@@ -11,6 +11,7 @@ router.get("", async(req, res) => {
     return res.status(200).send(user);
 })
 
+// CRUD OPERATION FOR THE USERS CONTROLLER ARE DECLARED BELOW
 
 router.post("", async(req, res) => {
     const user = await userModel.create(req.body);

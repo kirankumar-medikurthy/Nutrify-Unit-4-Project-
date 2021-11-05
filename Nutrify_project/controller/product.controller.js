@@ -8,6 +8,7 @@ const authorize = require("../middlewars/authorize.middlewar");
 
 const router = express.Router();
 
+// CRUD OPERATION FOR THE PRODUCT CONTROLLER ARE DECLARED BELOW
 
 router.get('', authenticate, authorize(["user", "admin"]), async(req, res) => {
     const product = await productModel.find({}).lean().exec();
