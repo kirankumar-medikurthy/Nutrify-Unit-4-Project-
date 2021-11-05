@@ -1,5 +1,7 @@
 const mongoose = require('mongoose');
 
+// HERE WE MAILY CREATE THE PRODUCT SCHEMA FOR NUTRIFY PRODUCTS
+
 const productSchema = new mongoose.Schema({
     product_name: { type: String, required: true },
     price: { type: Number, required: true },

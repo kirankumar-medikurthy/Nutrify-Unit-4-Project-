@@ -2,6 +2,9 @@ const mongoose = require('mongoose');
 
 const bcryptjs = require('bcryptjs');
 
+
+// HERE WE MAILY CREATE THE USERS SCHEMA FOR NUTRIFY PRODUCTS
+
 const userSchema = new mongoose.Schema({
         first_name: { type: String, required: false },
         last_name: { type: String, required: false },
