@@ -27,9 +27,9 @@ router.post("",authenticate, authorize(["admin"]),body("catergory_name").notEmpt
     }
 })
 
-router.get("",authenticate, authorize(["user","admin"]),async(req,res)=>{
+router.get("",async(req,res)=>{
     const category = await categoryModel.find({}).lean().exec();
-    const user = req.user
+    // const user = req.user
     //console.log(user);
     return res.status(200).send({ category});
 })
