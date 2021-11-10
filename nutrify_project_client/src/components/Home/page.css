@@ -15,7 +15,8 @@
   height: 54px;
   width: 360px;
   margin-top: 0px;
-  background-color: coral;
+  background-color: white;
+  box-shadow:2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 #toggle-btn {
@@ -56,6 +57,7 @@
   margin-top: 20px;
   border-radius: 40px;
   border: 1px solid black;
+  box-shadow:2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 #inputcontent {
@@ -80,7 +82,6 @@
     grid-template-rows: 20% 20% 20%;
     grid-gap:40px;
     border-radius:30px;
-    background-color:#E0E0E0;
 }
 
 .icon{
@@ -89,6 +90,7 @@
     margin:20px 20px;
     border-radius:45px;
     background-color:#ffffff;
+    box-shadow:1px 1px 1px 1px rgba(0.2, 0.2, 0.2, 0.2);
 }
 .icon:hover {
   opacity: 1;
