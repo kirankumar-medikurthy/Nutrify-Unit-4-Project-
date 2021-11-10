@@ -2,6 +2,7 @@ import "./page.css";
 
 function Third(){
     return (<div id="pageLayout">
+        <div id="heading2"></div>
         <div id="header">
                     <h3 id="heading">Nutrify</h3>
                     <div id="toggle-btn">

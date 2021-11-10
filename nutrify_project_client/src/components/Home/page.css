@@ -14,8 +14,7 @@
   justify-content: space-between;
   height: 54px;
   width: 360px;
-  margin-left: 0px;
-  margin-top: 18px;
+  margin-top: 0px;
   background-color: coral;
 }
 
@@ -94,6 +93,7 @@
 .icon:hover {
   opacity: 1;
   border:1px solid #303F9F;
+  color:#4e309f;
 }
 .img {
     height: 16px;
@@ -143,4 +143,64 @@
   color:white;
   border:none;
 
+}
+
+#heading2 {
+  height: 18px;
+  width: 360px;
+  background-color: #242424;
+}
+
+
+#EntranceLayout{
+  height: 640px;
+  width: 360px;
+  border-radius: 5px;
+  border:1px solid black;
+  margin:auto;
+  background: linear-gradient(180deg, #EAFFFC 0%, rgba(239, 255, 246, 0) 100%);
+}
+
+#logoimage {
+  height: 157.3777313232422px;
+  width: 200.0005340576172px;
+  margin-left: 25px;
+  margin-top: 186px;
+  border-radius: 0px;
+
+}
+#logoimage:hover{
+  border:1px solid #19BD15;
+  border-radius:30px;
+}
+
+.brandname {
+  height: 82px;
+  width: 185px;
+  margin-left: 87px;
+  margin-top: 20px;
+  font-size:16px;
+  font-family: Ramaraja;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 82px;
+  letter-spacing: 0.15000000596046448px;
+  text-align: center;
+  color: #19BD15;
+}
+
+.quote {
+  height: 21px;
+  width: 132px;
+  margin-left: 114px;
+  margin-top: 0px;
+  font-family: Abhaya Libre;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #4E4E4E;
 }
