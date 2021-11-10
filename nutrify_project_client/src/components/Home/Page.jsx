@@ -32,15 +32,15 @@ function Page(){
                     </div>
                     <div id="text">You can select from below categories</div>
                     <div id="icons">
-                            <div className="icon"><img className="img"src="/iconimages/Eye.png" alt="Eyes"/><br/>{data[0].name}</div>
-                            <div className="icon"><img className="img"src="/iconimages/weight.png" alt="weight"/><br/>{data[1].name}</div>
-                            <div className="icon"><img className="img"src="/iconimages/ear.png" alt="Ear"/><br/>{data[2].name}</div>
-                            <div className="icon"><img className="img"src="/iconimages/blood.png" alt="Blood"/><br/>{data[3].name}</div>
-                            <div className="icon"><img className="img"src="/iconimages/bones.png" alt="Eyes"/><br/>{data[4].name}</div>
-                            <div className="icon"><img className="img"src="/iconimages/Eye.png" alt="Eyes"/><br/>{data[5].name}</div>
-                             <div className="icon"><img className="img"src="/iconimages/Eye.png" alt="Eyes"/><br/>{data[6].name}</div>
-                            <div className="icon"><img className="img"src="/iconimages/joints.png" alt="Eyes"/><br/>{data[7].name}</div>
-                            <div className="icon"><img className="img"src="/iconimages/energy.png" alt="Eyes"/><br/>{data[8].name}</div>               
+                            <div className="icon"><img className="img"src="/iconimages/Eye.png" alt={data[0].name}/><br/>{data[0].name}</div>
+                            <div className="icon"><img className="img"src="/iconimages/weight.png" alt={data[1].name}/><br/>{data[1].name}</div>
+                            <div className="icon"><img className="img"src="/iconimages/ear.png" alt={data[2].name}/><br/>{data[2].name}</div>
+                            <div className="icon"><img className="img"src="/iconimages/blood.png" alt={data[3].name}/><br/>{data[3].name}</div>
+                            <div className="icon"><img className="img"src="/iconimages/bones.png" alt={data[4].name}/><br/>{data[4].name}</div>
+                            <div className="icon"><img className="img"src="/iconimages/smile.png" alt={data[5].name}/><br/>{data[5].name}</div>
+                             <div className="icon"><img className="img"src="/iconimages/breathe.png" alt={data[6].name}/><br/>{data[6].name}</div>
+                            <div className="icon"><img className="img"src="/iconimages/joints.png" alt={data[7].name}/><br/>{data[7].name}</div>
+                            <div className="icon"><img className="img"src="/iconimages/energy.png" alt={data[8].name}/><br/>{data[8].name}</div>               
                     </div>
                 </div>
             </div>
