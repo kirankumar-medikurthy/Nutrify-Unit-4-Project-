@@ -5,6 +5,9 @@ import {Third} from "./components/Home/Third"
 import {Entrancepage} from "./components/Home/Entrancepage"
 import {SplashOne} from "./components/Splash_Screen/SplashOne"
 import {SplashTwo} from "./components/Splash_Screen/SplashTwo";
+import {Menu} from "./components/Signup/Menu";
+import {Nutricon} from "./components/Payment/Nutricon";
+import {NutriconSecond} from "./components/Payment/NutriconSecond"
 function App() {
   return (
     <div className="App">
@@ -14,6 +17,9 @@ function App() {
       <Entrancepage/>
       <SplashOne/>
       <SplashTwo/>
+      <Menu/>
+      <Nutricon/>
+      <NutriconSecond/>
     </div>
   );
 }
