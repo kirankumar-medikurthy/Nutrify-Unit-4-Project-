@@ -18,6 +18,8 @@ const categoryController = require("../controller/category.controller");
 
 const problemsController = require("../controller/problem.controller");
 
+const menuController = require("../controller/Menu.controller");
+
 const port = process.env.PORT || 5000;
 const app = express();
 
@@ -38,6 +40,8 @@ app.post("/login", login);
 app.use("/categorys",categoryController);
 
 app.use("/problems",problemsController);
+
+app.use("/menu", menuController);
 
 passport.serializeUser(function({ user, token }, done) {
     done(null, { user, token });
