@@ -10,7 +10,7 @@ const router = express.Router();
 
 // CRUD OPERATION FOR THE PRODUCT CONTROLLER ARE DECLARED BELOW
 
-router.get('', authenticate, authorize(["user", "admin"]), async(req, res) => {
+router.get('',async(req, res) => {
     const product = await productModel.find({}).lean().exec();
     const user = req.user
     return res.status(200).send({ product, user });
