@@ -4,9 +4,10 @@ const mongoose = require('mongoose');
 
 const productSchema = new mongoose.Schema({
     product_name: { type: String, required: true },
-    price: { type: Number, required: true },
-    brand: { type: String, required: true },
-    manufacuredate: { type: String, required: true },
+    Description: { type: String, required: true},
+    Subtotal: { type: Number, required: true },
+    Discount: { type: Number, required: true },
+    Shipping_and_Delivery_charge: { type: String, required: true },
     user_id: { type: mongoose.Schema.Types.ObjectId, ref: "user", required: true }
 }, {
     versionKey: false,
