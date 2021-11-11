@@ -1,5 +1,7 @@
 const express = require('express');
 
+const cors = require('cors');
+
 require('dotenv').config();
 
 const connect = require("../configs/db");
@@ -18,6 +20,8 @@ const problemsController = require("../controller/problem.controller");
 
 const port = process.env.PORT || 5000;
 const app = express();
+
+app.use(cors());
 
 app.use(express.json());
 
