@@ -88,7 +88,7 @@ One caveat of working in a team that i felt was of major concern:
 # Some snapshots of how our website looks : 
 
 ## Home page
-![Home page](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Home.png?raw=true) 
+![Home page](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Home.png?raw=true)
 
 ## Menu  Page
 ![Menu page](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Menu.png?raw=true);
