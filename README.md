@@ -49,14 +49,14 @@
 * The user has to select one or more Diagnosis problem and then user has to click on **START** Button to start diagnosis test.
 * It will be redirected to diagnosis problem, Then user has to select Appropriate symptoms and Then click on **NEXT** button.
 * It will be Redirected to **Reports page** and It will show vitamin defeciency interm of 
-        * Omega 3 fatty acid
-        * Vitamin A
-        * Lutein
+    * Omega 3 fatty acid
+    * Vitamin A
+    * Lutein
 * Then user has to click on Done, It will redirect to Home page
 * If user want to book free trail, The can  click on **Book free trail**.
 * If user want to buy **Nutricon Instrument**, User has to sign up into our Website, While signing up the user, User has to enter
-        * Enter the Full Name
-        * Enter 10 digit mobile number
+    * Enter the Full Name
+    * Enter 10 digit mobile number
 * User has to click on **Menu** Button and the user has to select **Order** , Then user can select number of instrument needed and Add proper card details and click on **continue** button to make payment successful.
 
 # Working in Team
@@ -85,7 +85,7 @@ One caveat of working in a team that i felt was of major concern:
 
 
 
-# Some snapshots of how out website looks : 
+# Some snapshots of how our website looks : 
 
 ## Home page
 ![Home page](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Home.png?raw=true) 
