@@ -63,7 +63,7 @@ function NutriconSecond() {
               <div className="subtotal">Subtotal<span>{`Rs ${data[0].Subtotal}`}</span></div>
               <div className="Discount">Discount<span>{`Rs ${data[0].Discount}`}</span></div>
               <div className="Shipping">Shipping & Delivery charge<span>{data[0].Shipping_and_Delivery_charge}</span></div>
-              <div className="TotalAmount">Total amount<span><b>{`Rs ${count*data[0].Subtotal}`}</b></span></div>
+              <div className="TotalAmount">Total amount<span><b>{`Rs ${(count*data[0].Subtotal)-data[0].Discount}`}</b></span></div>
           </div>
           <button id="proceed">Proceed</button>
       </div>
