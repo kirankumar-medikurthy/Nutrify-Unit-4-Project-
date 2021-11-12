@@ -12,16 +12,17 @@
 
 # Team Members
 
-   * Kiran Kumar Medikurthy
-   * Abhishek singh
-   * Neha
-   * snigdha modi
-   * Sumit Kumar
-   * Vishal Kumar Sinha
+   * Kiran Kumar Medikurthy  - kirankumar-medikurthy
+   * Abhishek singh          - Abhishek-015
+   * Neha                    - Neha-081
+   * snigdha modi            - 
+   * Sumit Kumar             - sumitjs7979
+   * Vishal Kumar Sinha      - Vishal062 
 
 # Functionality
 
 * Main Functionalities in our projects were :
+    * Home page
     * Login/Signup
     * Nutricion Product info
     * Test
