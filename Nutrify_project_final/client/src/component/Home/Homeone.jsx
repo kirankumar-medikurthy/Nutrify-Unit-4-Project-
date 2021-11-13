@@ -5,39 +5,39 @@ import "./styles.css"
 export const Homepage = () => {
   return (
     <div>
-      <div className="black"></div>
-      <div className="sty1">
-        <div className="a1">Nutrify</div>
-        <div className="a2">
+      <div className="projectNutrifyblack"></div>
+      <div className="projectNutrifysty1">
+        <div className="projectNutrifya1">Nutrify</div>
+        <div className="projectNutrifya2">
           <VscListFlat />
         </div>
       </div>
-      <div className="sty2">
+      <div className="projectNutrifysty2">
         <img
-          className="img1"
+          className="projectNutrifyimg1"
           alt="Logo"
           src="/HomeOne/Apple_Black_1.png"
         />
-        <div className="sty3">
+        <div className="projectNutrifysty3">
           <p>Introducing...</p>
-          <p className="p1">Nutricon</p>
+          <p className="projectNutrifyp1">Nutricon</p>
           <p>self tracking nutrition device</p>
-          <div className="logo2">
+          <div className="projectNutrifylogo2">
             Explore <FiArrowRight />
           </div>
         </div>
       </div>
 
       <div>
-        <p className="p2">
+        <p className="projectNutrifyp2">
           Know your nutritional deficiency with a simple test
         </p>
-        <button className="btn2">TAKE A TEST</button>
+        <button className="projectNutrifybtn2">TAKE A TEST</button>
       </div>
 
-      <div className="div2">
-        <p className="p3">How Nutricon works?</p>
-        <div className="p4">
+      <div className="projectNutrifydiv2">
+        <p className="projectNutrifyp3">How Nutricon works?</p>
+        <div className="projectNutrifyp4">
           Food is essential—it provides vital nutrients for survival, Nutrients
           have one or more of three basic functions: they provide energy,
           contribute to body structure, and/or regulate chemical processes in
@@ -47,19 +47,19 @@ export const Homepage = () => {
         </div>
         <div>
           <img
-            className="img2"
+            className="projectNutrifyimg2"
             alt="logo2"
             src="/HomeOne/nutriconWorks.png"
           />
         </div>
-        <button className="btn3">BOOK A FREE TRAIL</button>
+        <button className="projectNutrifybtn3">BOOK A FREE TRAIL</button>
       </div>
 
       <div>
-        <p className="p3">
+        <p className="projectNutrifyp3">
           Improve your productivity by monitoring Nutri levels
         </p>
-        <p className="p4">
+        <p className="projectNutrifyp4">
           Monitor nutrition is not complicated or difficult. What is more
           problematic is to monitor nutritional risk and to define the purpose
           or target for nutrition, especially in critically ill patients. The
@@ -68,21 +68,21 @@ export const Homepage = () => {
         </p>
       </div>
 
-      <div className="div3">
+      <div className="projectNutrifydiv3">
         <img
-          className="img3"
+          className="projectNutrifyimg3"
           alt="Logo"
           src="/HomeOne/drImage.png"
         />
-        <p className="vtitle">Dr Anna Stassie</p>
-        <p className="vtit2"> Nutritionist</p>
+        <p className="projectNutrifyvtitle">Dr Anna Stassie</p>
+        <p className="projectNutrifyvtit2"> Nutritionist</p>
       </div>
 
-      <div className="div4">
-        <p className="p3">Frequently asked questions</p>
+      <div className="projectNutrifydiv4">
+        <p className="projectNutrifyp3">Frequently asked questions</p>
 
-        <div className="question">
-          <p className="q">
+        <div className="projectNutrifyquestion">
+          <p className="projectNutrifyq">
             How Nutricon helps me
             ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -90,48 +90,48 @@ export const Homepage = () => {
           </p>
         </div>
 
-        <div className="question">
-          <p className="q">
+        <div className="projectNutrifyquestion">
+          <p className="projectNutrifyq">
             Diffrence in Nutrition &
             Productivity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <FiPlus />
           </p>
         </div>
 
-        <div className="question">
-          <p className="q">
+        <div className="projectNutrifyquestion">
+          <p className="projectNutrifyq">
             Can multiple users share one device ?&nbsp;&nbsp;&nbsp;
             <FiPlus />
           </p>
         </div>
 
-        <div className="question">
-          <p className="q">
+        <div className="projectNutrifyquestion">
+          <p className="projectNutrifyq">
             How to connect Nutricon to mobile app?&nbsp;
             <FiPlus />
           </p>
         </div>
 
-        <p className="load">Load more...</p>
+        <p className="projectNutrifyload">Load more...</p>
       </div>
 
-      <div className="div5">
-        <p className="p3">Subscribe to us</p>
+      <div className="projectNutrifydiv5">
+        <p className="projectNutrifyp3">Subscribe to us</p>
 
-        <div className="input">
-          <input className="inp1" placeholder="Email Id" />
-          <button className="btn4">SEND</button>
+        <div className="projectNutrifyinput">
+          <input className="projectNutrifyinp1" placeholder="Email Id" />
+          <button className="projectNutrifybtn4">SEND</button>
         </div>
 
-        <div className="last">
-          <div className="left">
+        <div className="projectNutrifylast">
+          <div className="projectNutrifyleft">
             <p>About</p>
             <p>Testimonials</p>
             <p>Contact Us</p>
             <p>Information Security</p>
           </div>
 
-          <div className="right">
+          <div className="projectNutrifyright">
             <p>Blog</p>
             <p>Refund Policy</p>
             <p>Help Center</p>

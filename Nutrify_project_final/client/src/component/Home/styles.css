@@ -4,11 +4,11 @@
   /* border: 2px solid black; */
   margin: auto;
 }
-.black {
+.projectNutrifyblack {
   height: 20px;
   background-color: #242424;
 }
-.sty1 {
+.projectNutrifysty1 {
   display: flex;
   font-family: Open Sans;
   font-style: normal;
@@ -16,34 +16,34 @@
   justify-content: space-between;
   margin-left: 5px;
 }
-.a1 {
+.projectNutrifya1 {
   flex-direction: left;
   font-size: 20px;
 }
-.a2 {
+.projectNutrifya2 {
   flex-direction: row-reverse;
   font-size: 20px;
   margin-right: 5px;
   cursor: pointer;
 }
-.img1 {
+.projectNutrifyimg1 {
   width: 50%;
   height: 200px;
 }
 /* ////////// */
-.sty2 {
+.projectNutrifysty2 {
   /* border: 2px solid black; */
   background-color: rgba(234, 255, 252, 0.5);
   display: flex;
 }
-.sty3 {
+.projectNutrifysty3 {
   /* border: 2px solid black; */
   width: 40%;
   margin-top: 30px;
   margin-right: 20px;
   line-height: 14px;
 }
-.p1 {
+.projectNutrifyp1 {
   font-family: Open Sans;
   font-style: normal;
   font-weight: 800;
@@ -52,13 +52,13 @@
   color: #000000;
   background-image: Radial Gradient #0d726c 100% #242a48 100%;
 }
-.logo2 {
+.projectNutrifylogo2 {
   color: green;
   font-weight: bold;
   cursor: pointer;
 }
 /* /////////////////////One div style complete */
-.p2 {
+.projectNutrifyp2 {
   font-family: Open Sans;
   font-style: normal;
   font-weight: 600;
@@ -71,7 +71,7 @@
   margin-top: 40px;
   margin-bottom: 20px;
 }
-.btn2 {
+.projectNutrifybtn2 {
   width: 250px;
   height: 50px;
   background: #ff7f00;
@@ -86,18 +86,18 @@
   border: none;
 }
 /* //////////////////// */
-.div2 {
+.projectNutrifydiv2 {
   /* border: 2px solid red; */
   background-color: rgba(234, 255, 252, 0.5);
 }
-.p3 {
+.projectNutrifyp3 {
   text-align: center;
   color: #1b1562;
   font-size: 18px;
   font-weight: 600;
   padding-top: 30px;
 }
-.p4 {
+.projectNutrifyp4 {
   text-align: center;
   margin-left: 10px;
   margin-right: 10px;
@@ -105,19 +105,19 @@
   margin-bottom: 30px;
   line-height: 22.82px;
 }
-.img2 {
+.projectNutrifyimg2 {
   width: 100%;
 }
-.img3 {
+.projectNutrifyimg3 {
   width: 100%;
   cursor: pointer;
 }
-img.img3:hover {
+img.projectNutrifyimg3:hover {
   /* border:2px solid black; */
   width: 120;
   height: 220px;
 }
-.btn3 {
+.projectNutrifybtn3 {
   background-color: #00d215;
   width: 286px;
   height: 52px;
@@ -136,24 +136,24 @@ img.img3:hover {
 /* .div3 {
   /* border: 2px solid yellow; */
 
-.vtitle {
+.projectNutrifyvtitle {
   color: #4a4960;
   font-weight: bold;
   font-size: 12px;
   text-align: center;
 }
-.vtit2 {
+.projectNutrifyvtit2 {
   text-align: center;
   font-size: 10px;
   line-height: 2px;
 }
 /* /////// div4*/
-.div4 {
+.projectNutrifydiv4 {
   /* border: 1px solid red; */
   background-color: rgba(234, 255, 252, 0.5);
   margin-top: 10px;
 }
-.question {
+.projectNutrifyquestion {
   width: 328px;
   height: 52px;
   border: 1px solid black;
@@ -164,11 +164,11 @@ img.img3:hover {
   font-weight: normal;
   margin-bottom: 10px;
 }
-.q {
+.projectNutrifyq {
   margin-left: 15px;
   color: #000000;
 }
-.load {
+.projectNutrifyload {
   text-align: center;
   color: #4a4960;
   cursor: pointer;
@@ -176,7 +176,7 @@ img.img3:hover {
   padding-bottom: 30px;
 }
 /* /////footer//// */
-.input {
+.projectNutrifyinput {
   display: flex;
   flex-direction: row;
   /* This bit draws the box around it */
@@ -187,7 +187,7 @@ img.img3:hover {
   margin-left: 12px;
   border-radius: 30px;
 }
-.inp1 {
+.projectNutrifyinp1 {
   flex-grow: 2;
   border: none;
   margin-left: 15px;
@@ -197,7 +197,7 @@ img.img3:hover {
 input:focus {
   outline: none;
 }
-.btn4 {
+.projectNutrifybtn4 {
   background-color: #ff7f00;
   width: 88px;
   height: 52px;
@@ -210,7 +210,7 @@ input:focus {
   cursor: pointer;
 }
 /* //////last/// */
-.last {
+.projectNutrifylast {
   display: flex;
   margin-top: 30px;
   justify-content: space-between;
@@ -219,12 +219,12 @@ input:focus {
   font-size: 12px;
   cursor: pointer;
 }
-.left {
+.projectNutrifyleft {
   margin-left: 50px;
   margin-top: 20px;
   margin-bottom: 20px;
 }
-.right {
+.projectNutrifyright {
   margin-right: 60px;
   margin-top: 20px;
   margin-bottom: 20px;
