@@ -1,0 +1,144 @@
+#splashOnelogo {
+  height: 250px;
+  width: 250px;
+  margin-left: 55px;
+  margin-top: 172px;
+  border-radius: 0px;
+}
+
+#splashOneLayout {
+  height: 640px;
+  width: 360px;
+  margin: auto;
+  border: 1px solid black;
+}
+
+#splashOnebox {
+  height: 250px;
+  width: 250px;
+  margin-left: 55px;
+  margin-top: 172px;
+  border-radius: 125px;
+  border: 2px solid #00d215;
+}
+
+#splashOnebox:hover {
+    border: 1px solid #1565c0; 
+}
+.brandname1 {
+  height: 48px;
+  width: 186px;
+  margin-left: 30px;
+  margin-top: 90px;
+  font-family: Ramaraja;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 82px;
+  letter-spacing: 0.15000000596046448px;
+  text-align: center;
+  color: #00d215;
+}
+.quote1 {
+  height: 21px;
+  width: 132.71351623535156px;
+  margin-left: 55px;
+  margin-top: 18px;
+  border-radius: nullpx;
+  font-family: Abhaya Libre;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #4e4e4e;
+}
+
+#SplashTwoLayout {
+  height: 640px;
+  width: 360px;
+  margin: auto;
+  border-radius: 0px;
+  background: #ffffff;
+  border: 1px solid black;
+}
+
+#SplashTwoBox {
+  height: 250px;
+  width: 250px;
+  margin-left: 55px;
+  margin-top: 172px;
+  border-radius: 125px;
+  border: 5px solid #3cb448;
+  opacity: 0.2;
+}
+
+#SplashTwoBox:hover {
+  border: 1px solid #1565c0;
+  opacity: 1;
+}
+#SplashTwoInnerBox:hover {
+    border: 1px solid #1565c0; 
+}
+
+#SplashTwoInnerBox {
+  height: 141px;
+  width: 260px;
+  margin-left: 52px;
+  margin-top: -202px;
+  border-radius: 30px;
+  border: 1px solid black;
+
+}
+
+#SplashTwoInnerContent {
+  height: 40px;
+  width: 214px;
+  margin-left: 35px;
+  margin-top: 20px;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #000000;
+}
+#AllowDenyBox {
+    display:flex;
+    flex-direction: row;
+}
+
+.Allow {
+  height: 20px;
+  width: 36px;
+  margin-left: 30px;
+  margin-top: 40px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-align: left;
+  color: #00d215;
+}
+
+.Deny {
+    height: 20px;
+width: 32px;
+margin-left: 130px;
+margin-top: 40px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0.25px;
+text-align: left;
+color: #FF0000AB;
+
+}
