@@ -24,7 +24,7 @@
 
 ## Links Related to Blog and Link to run project  in a Browser
 
-[Blog Link Here](#linktest)
+[Blog Link Here](#https://medium.com/@vs9425348/introduction-project-nutrify-1c5d6dbb7183)
 
 [Project Demo Video Link](#)
 
