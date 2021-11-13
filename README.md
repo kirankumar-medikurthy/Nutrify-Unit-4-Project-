@@ -2,22 +2,40 @@
 
 # Learn by Cloning : Nutrify Project Clone
 
-## This clone is made with pure React, CSS and JavaScript,Node Js,MongoDB and Library like Mongoose,Express,Axios,Session,express-validator,google Oauth2 in this project.
+## Tech Stack
+* CSS
+* JavaScript
+* Reactjs
+* Express
+* MongoDB
+* ## NPM Libraries :
+    * Express validator
+    * React icons
+    * Google Oauth2
+    * Axios
+    * Express
+    * Mongoose
+    * React-router-dom
+    * passport-google-oauth2
+    * bcryptjs
+    * cors
+    * dotenv
+    * jsonwebtoken
 
 ## Links Related to Blog and Link to run project  in a Browser
 
-[Blog Link Here](#)
+[Nutrify_Blog (read here our experiance)](https://medium.com/@vs9425348/introduction-project-nutrify-1c5d6dbb7183)
 
 [Project Demo Video Link](#)
 
 # Team Members
 
-   * Kiran Kumar Medikurthy  - kirankumar-medikurthy
-   * Abhishek singh          - Abhishek-015
-   * Neha                    - Neha-081
-   * snigdha modi            - 
-   * Sumit Kumar             - sumitjs7979
-   * Vishal Kumar Sinha      - Vishal062 
+   * [Kiran Kumar Medikurthy ](https://github.com/kirankumar-medikurthy)
+   * [Abhishek singh](#)
+   * [Neha](https://github.com/Neha-081)
+   * [Vishal Sinha](https://github.com/Vishal062)
+   * [Sumit Kumar](https://github.com/sumitjs7979)
+   * snigdha modi   -(UI/UX team) 
 
 # Functionality
 
