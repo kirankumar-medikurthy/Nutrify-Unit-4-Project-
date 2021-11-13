@@ -1,0 +1,67 @@
+#MenuLayout {
+  height: 640px;
+  width: 360px;
+  margin: auto;
+  border: 1px solid black;
+  margin-bottom:55px;
+}
+
+/* #MenuContent {
+  margin-top:20px;
+} */
+
+#Menuheader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 54px;
+  width: 360px;
+  margin-bottom: 100px;
+  background-color: white;
+  box-shadow:2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.Device_Connect,
+.Reports,
+.Order,
+.Nutritional {
+  height: 40px;
+  width: 360px;
+  margin-top: 25px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.Device_Connect span,
+.Reports span,
+.Order span,
+.Nutritional span {
+  height: 24px;
+  width: 92px;
+  margin-left: 10px;
+  margin-top: 25px;
+  font-family: Open Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.15000000596046448px;
+  text-align: center;
+}
+
+.logout {
+  height: 52px;
+  width: 212px;
+  margin: 120px 0px 0px auto;
+  border-radius: 5px;
+  padding: 18px, 76px, 18px, 76px;
+  background: #161616;
+  color: white;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: center;
+}

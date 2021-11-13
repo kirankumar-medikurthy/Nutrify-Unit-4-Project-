@@ -1,0 +1,231 @@
+.App {
+  font-family: sans-serif;
+  width: 360px;
+  /* border: 2px solid black; */
+  margin: auto;
+}
+.black {
+  height: 20px;
+  background-color: #242424;
+}
+.sty1 {
+  display: flex;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  justify-content: space-between;
+  margin-left: 5px;
+}
+.a1 {
+  flex-direction: left;
+  font-size: 20px;
+}
+.a2 {
+  flex-direction: row-reverse;
+  font-size: 20px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.img1 {
+  width: 50%;
+  height: 200px;
+}
+/* ////////// */
+.sty2 {
+  /* border: 2px solid black; */
+  background-color: rgba(234, 255, 252, 0.5);
+  display: flex;
+}
+.sty3 {
+  /* border: 2px solid black; */
+  width: 40%;
+  margin-top: 30px;
+  margin-right: 20px;
+  line-height: 14px;
+}
+.p1 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 126.19%;
+  color: #000000;
+  background-image: Radial Gradient #0d726c 100% #242a48 100%;
+}
+.logo2 {
+  color: green;
+  font-weight: bold;
+  cursor: pointer;
+}
+/* /////////////////////One div style complete */
+.p2 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.01em;
+  margin-left: 25px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.btn2 {
+  width: 250px;
+  height: 50px;
+  background: #ff7f00;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  margin-left: 45px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 30px;
+  border: none;
+}
+/* //////////////////// */
+.div2 {
+  /* border: 2px solid red; */
+  background-color: rgba(234, 255, 252, 0.5);
+}
+.p3 {
+  text-align: center;
+  color: #1b1562;
+  font-size: 18px;
+  font-weight: 600;
+  padding-top: 30px;
+}
+.p4 {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 14px;
+  margin-bottom: 30px;
+  line-height: 22.82px;
+}
+.img2 {
+  width: 100%;
+}
+.img3 {
+  width: 100%;
+  cursor: pointer;
+}
+img.img3:hover {
+  /* border:2px solid black; */
+  width: 120;
+  height: 220px;
+}
+.btn3 {
+  background-color: #00d215;
+  width: 286px;
+  height: 52px;
+  margin-left: 35px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border-radius: 30px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  border: none;
+}
+/* here you have to put a video */
+/* .div3 {
+  /* border: 2px solid yellow; */
+
+.vtitle {
+  color: #4a4960;
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+}
+.vtit2 {
+  text-align: center;
+  font-size: 10px;
+  line-height: 2px;
+}
+/* /////// div4*/
+.div4 {
+  /* border: 1px solid red; */
+  background-color: rgba(234, 255, 252, 0.5);
+  margin-top: 10px;
+}
+.question {
+  width: 328px;
+  height: 52px;
+  border: 1px solid black;
+  border-radius: 30px;
+  background-color: #ffffff;
+  margin-left: 12px;
+  /* font-size: 14px; */
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+.q {
+  margin-left: 15px;
+  color: #000000;
+}
+.load {
+  text-align: center;
+  color: #4a4960;
+  cursor: pointer;
+  margin-top: 30px;
+  padding-bottom: 30px;
+}
+/* /////footer//// */
+.input {
+  display: flex;
+  flex-direction: row;
+  /* This bit draws the box around it */
+  border: 1px solid rgba(109, 148, 180, 0.21);
+  padding: 2px;
+  width: 328px;
+  height: 52px;
+  margin-left: 12px;
+  border-radius: 30px;
+}
+.inp1 {
+  flex-grow: 2;
+  border: none;
+  margin-left: 15px;
+  font-size: 14px;
+  font-weight: bold;
+}
+input:focus {
+  outline: none;
+}
+.btn4 {
+  background-color: #ff7f00;
+  width: 88px;
+  height: 52px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+/* //////last/// */
+.last {
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-between;
+  background-color: #242424;
+  color: white;
+  font-size: 12px;
+  cursor: pointer;
+}
+.left {
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.right {
+  margin-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

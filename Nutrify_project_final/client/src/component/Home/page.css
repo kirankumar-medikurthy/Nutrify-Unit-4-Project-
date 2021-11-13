@@ -1,0 +1,208 @@
+@media only screen and (max-width: 768px) {
+}
+
+#pageLayout {
+  height: 741px;
+  width: 360px;
+  border: 1px solid black;
+  margin: auto;
+  opacity:0.8;
+}
+#header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 54px;
+  width: 360px;
+  margin-top: 0px;
+  background-color: white;
+  box-shadow:2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#toggle-btn {
+  height: 20px;
+  width: 24px;
+  margin-left: 280px;
+  margin-top: 17px;
+  border-radius: 5px;
+  padding: 6px;
+}
+#toggle-btn span {
+  display: block;
+  width: 10px;
+  height: 2px;
+  background: #151719;
+  margin: 2px 0px;
+}
+#heading {
+  height: 24px;
+  width: 59px;
+  left: 12px;
+  top: 15px;
+  border-radius: 0px;
+}
+
+#heading1 {
+  height: 27px;
+  width: 89px;
+  margin-left: 135px;
+  margin-top: 20px;
+  border-radius: 0px;
+}
+
+#inputbox {
+  height: 52px;
+  width: 336px;
+  margin-left: 12px;
+  margin-top: 20px;
+  border-radius: 40px;
+  border: 1px solid black;
+  box-shadow:2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#inputcontent {
+  height: 18px;
+  width: 143px;
+  border:none;
+  margin-left:-135px;
+  margin-top: 16px;
+}
+
+#text{
+    height: 18px;
+    width: 221px;
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+#icons{
+    display:grid;
+    grid-template-columns: 20% 20% 20%;
+    grid-template-rows: 20% 20% 20%;
+    grid-gap:40px;
+    border-radius:30px;
+}
+
+.icon{
+    height: 90px;
+    width: 90px;
+    margin:20px 20px;
+    border-radius:45px;
+    background-color:#ffffff;
+    box-shadow:1px 1px 1px 1px rgba(0.2, 0.2, 0.2, 0.2);
+}
+.icon:hover {
+  opacity: 1;
+  border:1px solid #303F9F;
+  color:#4e309f;
+}
+.img {
+    height: 16px;
+    width: 24px;
+    margin: 37px auto;
+}
+
+.img:hover{
+  opacity: 1;
+  width:26px;
+  filter: opacity(1) drop-shadow(0 0 0 #303F9F);
+}
+
+.home_image {
+    height: 199.84024047851562px;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 100px;
+    border-radius: 0px;
+
+}
+#image_below {
+  text-align:left;
+}
+
+#image_below h2 {
+  margin-left: 24px;
+}
+#content {
+  height: 92px;
+  width: 312px;
+  margin-left: 24px;
+  margin-top: 10px;
+  text-align: justify;
+  line-height: 2;
+  font-size:14px;
+}
+
+#btn {
+  height: 52px;
+  width: 195px;
+  margin-left: 1px;
+  margin-top: 64px;
+  border-radius: 30px;
+  padding: 18px, 76px, 18px, 76px;
+  background-color: #00D215;
+  color:white;
+  border:none;
+
+}
+
+#heading2 {
+  height: 18px;
+  width: 360px;
+  background-color: #242424;
+}
+
+
+#EntranceLayout{
+  height: 640px;
+  width: 360px;
+  border-radius: 5px;
+  border:1px solid black;
+  margin:auto;
+  background: linear-gradient(180deg, #EAFFFC 0%, rgba(239, 255, 246, 0) 100%);
+}
+
+#logoimage {
+  height: 157.3777313232422px;
+  width: 200.0005340576172px;
+  margin-left: 25px;
+  margin-top: 186px;
+  border-radius: 0px;
+
+}
+#logoimage:hover{
+  border:1px solid #19BD15;
+  border-radius:30px;
+}
+
+.brandname {
+  height: 82px;
+  width: 185px;
+  margin-left: 87px;
+  margin-top: 20px;
+  font-size:16px;
+  font-family: Ramaraja;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 82px;
+  letter-spacing: 0.15000000596046448px;
+  text-align: center;
+  color: #19BD15;
+}
+
+.quote {
+  height: 21px;
+  width: 132px;
+  margin-left: 114px;
+  margin-top: 0px;
+  font-family: Abhaya Libre;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #4E4E4E;
+}
