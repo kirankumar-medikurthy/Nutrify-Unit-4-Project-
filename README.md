@@ -2,7 +2,25 @@
 
 # Learn by Cloning : Nutrify Project Clone
 
-## This clone is made with pure React, CSS and JavaScript,Node Js,MongoDB and Library like Mongoose,Express,Axios,Session,express-validator,google Oauth2 in this project.
+## Tech Stack
+* CSS
+* JavaScript
+* Reactjs
+* Express
+* MongoDB
+* ## NPM Libraries :
+    * Express validator
+    * React icons
+    * Google Oauth2
+    * Axios
+    * Express
+    * Mongoose
+    * React-router-dom
+    * passport-google-oauth2
+    * bcryptjs
+    * cors
+    * dotenv
+    * jsonwebtoken
 
 ## Links Related to Blog and Link to run project  in a Browser
 
