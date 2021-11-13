@@ -11,6 +11,10 @@ import {Menu} from "./components/Signup/Menu";
 //-----------------------------Sumit paste your code here; --------------->
 import {Nutricon} from "./components/Payment/Nutricon";
 import {NutriconSecond} from "./components/Payment/NutriconSecond"
+import {Checkout} from "./components/Payment/Checkout"
+import {Payment} from "./components/Payment/Payment"
+import { PaymentPage } from "./components/Payment/PaymentPage";
+import {Status} from "./components/Payment/Status"
 import './App.css';
 // import {Parent} from "./components/Parent";
 function App() {
@@ -25,6 +29,10 @@ function App() {
       <Menu/>
       <Nutricon/>
       <NutriconSecond/>
+      <Checkout/>
+      <Payment/>
+      <PaymentPage/>
+      <Status/>
     </div>
   );
 }

@@ -1,37 +1,11 @@
 {
-    "categorys": [
-        {
-            "id":1,
-            "name": "Eyes"
-        },
-        {
-            "id":2,
-            "name": "Weight"
-        },
-        {
-            "id":3,
-            "name": "Ear"
-        },
-        {
-            "id":4,
-            "name": "Blood"
-        },
-        {
-            "id":5,
-            "name": "Bones"
-        },{
-            "id":6,
-            "name": "Mood"
-        },
-        {
-            "id":7,
-            "name": "Breathe"
-        },{
-            "id":8,
-            "name": "Joints"
-        },{
-            "id":9,
-            "name": "Energy"
-        }
-    ]
+  "payment": [
+    {
+      "Cardholder_name": "kirankumar",
+      "Card_number": "1234567891234567",
+      "expiry_month": "10",
+      "expiry_year": "2022",
+      "id": 1
+    }
+  ]
 }

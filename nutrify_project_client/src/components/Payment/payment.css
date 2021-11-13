@@ -1,0 +1,238 @@
+
+#pagelayout {
+    height: 640px;
+    width: 360px;
+    border: 1px solid black;
+    margin: auto;
+    opacity:0.8;
+  }
+  #blackdiv{
+    position: absolute;
+    width: 360px;
+    height: 18px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+    background-color: #242424;
+  }
+  #head {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    height: 54px;
+    width: 360px;
+    margin-left: 0px;
+    margin-top:18px;
+    background-color: #FFFFFF;
+box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.1);
+  }
+
+  #dashimg{
+    width: 10%;
+    margin-top: 0px;
+  }
+  #headin {
+     height: 24px;
+     width: 147px;
+    margin-left: 12px;
+margin-top: 15px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bolder;
+font-size: 18px;
+line-height: 147.69%;
+align-items: center;
+letter-spacing: 0.01em;
+color: rgba(0,0,0,0.7);
+  }
+  #select{
+width: 186px;
+height: 24px;
+margin-left: 86px;
+margin-top: 32px;
+
+font-family: Noto Serif Thai;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.15px;
+
+color: rgba(0, 0, 0, 0.87);
+
+  }
+  #input-box {
+    height: 52px;
+    width: 328px;
+    margin-left: 16px;
+    margin-top: 16px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    outline:none;
+    border: none;
+    font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+align-items: center;
+letter-spacing: 0.15px;
+
+color: rgba(0, 0, 0, 0.87);
+  }
+  
+  
+  .dis_flex{
+      display: flex;
+  }
+  #input-box:focus {
+font-family: Open Sans;
+font-style: normal;
+font-weight: bolder;
+font-size: 14px;
+line-height: 24px;
+align-items: center;
+letter-spacing: 0.15px;
+
+color: rgba(0, 0, 0, 0.87);
+  }
+  #expiry{
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  }
+  #expirydiv{
+      display: flex;
+      flex-direction: row;
+      gap: 4px;
+      
+  }
+ 
+  #smallinputbox {
+    width: 166px;
+height: 40px;
+margin-left: 12px;
+
+background-color: #FFFFFF;
+border: 1px solid #D9D8D8;
+box-sizing: border-box;
+border-radius: 30px;
+outline:none;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+align-items: center;
+letter-spacing: 0.15px;
+
+color: rgba(0, 0, 0, 0.87);
+  }
+  #smallinputbox:focus {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 14px;
+    line-height: 24px;
+    align-items: center;
+    letter-spacing: 0.15px;
+    
+    color: rgba(0, 0, 0, 0.87);
+      }
+  #smallinputbox_year {
+   
+    width: 166px;
+height: 40px;
+
+background-color: #FFFFFF;
+border: 1px solid #D9D8D8;
+box-sizing: border-box;
+border-radius: 30px;
+outline:none;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+align-items: center;
+letter-spacing: 0.15px;
+
+color: rgba(0, 0, 0, 0.87);
+  }
+  #smallinputbox_year:focus {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 14px;
+    line-height: 24px;
+    align-items: center;
+    letter-spacing: 0.15px;
+    
+    color: rgba(0, 0, 0, 0.87);
+      }
+  #cont_button{
+margin-top: 65px;
+margin-left: 25px;
+  }
+  #next_button{
+    margin-top: 98px;
+    margin-left: 30px;
+      }
+  #smallbutton {
+    height: 52px;
+    width: 227px;
+    align-items: center;
+    border-radius: 40px;
+    border: 1px solid rgb(8, 0, 0);
+    color: white;
+    font-size: 18px;
+  }
+  #paracontent {
+  
+    width:139px;
+    height: 24px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+align-items: center;
+letter-spacing: 0.15px;
+margin-left: 20px;
+color: #000000;
+  
+  }
+  
+  
+  .checkbox-round {
+      margin-top: 6px;
+      margin-left: 19px;
+    width: 14px;
+    height:14px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid rgb(5, 0, 0);
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.checkbox-round:checked {
+    background-color: rgb(66, 59, 59);
+}
+#tickimg{
+  width: 80px;
+  height: 80px;
+  /* margin-left:100px;
+  margin-top: 88px; */
+  margin:88px auto 0px auto;
+  margin-bottom: 141px;
+}
+
+
+
