@@ -30,12 +30,12 @@
 
 # Team Members
 
-   * Kiran Kumar Medikurthy  - kirankumar-medikurthy
-   * Abhishek singh          - Abhishek-015
-   * Neha                    - Neha-081
-   * snigdha modi            - 
-   * Sumit Kumar             - sumitjs7979
+   * [Kiran Kumar Medikurthy ](https://github.com/kirankumar-medikurthy)
+   * [Abhishek singh](#)
+   * [Neha](https://github.com/Neha-081)
    * [Vishal Sinha](https://github.com/Vishal062)
+   * [Sumit Kumar](https://github.com/sumitjs7979)
+   * snigdha modi   -(UI/UX team) 
 
 # Functionality
 
