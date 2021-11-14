@@ -21,7 +21,7 @@
     * cors
     * dotenv
     * jsonwebtoken
-![](https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png)
+![](https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png){width:"230px"}
 
 ## Links Related to Blog and Link to run project  in a Browser
 
