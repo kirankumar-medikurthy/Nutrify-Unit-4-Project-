@@ -21,13 +21,14 @@
     * cors
     * dotenv
     * jsonwebtoken
-![](https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png){width:"230px"}
+
+[<img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" width="50"/>](react)    [<img src="https://www.pngkit.com/png/full/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" width="50"/>](mongodb)    [<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="50"/>](css)   [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrXjckwvuYvbgBisgfgOtpRYaD71l8gg8-dQ&usqp=CAU" width="50"/>](express)
 
 ## Links Related to Blog and Link to run project  in a Browser
 
 [Nutrify_Blog (read here our experiance)](https://medium.com/@vs9425348/introduction-project-nutrify-1c5d6dbb7183)
 
-[Project Demo Video Link](https://drive.google.com/file/d/1AsJ6KLVRSjrhPjOqrJbCteiRs2aWq7Vr/view?usp=sharing)
+[Project Demo Video Link](https://drive.google.com/file/d/1AsJ6KLVRSjrhPjOqrJbCteiRs2aWq7Vr/view?usp=sharing =x250))
 
 # Team Members
 
@@ -108,25 +109,25 @@ One caveat of working in a team that i felt was of major concern:
 # Some snapshots of how our website looks : 
 
 ## Home page
-![Home page](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Home.png?raw=true)
+[<img src="https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Home.png" width="100%"/>](Home)
 
 ## Menu  Page
-![Menu page](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Menu.png?raw=true);
+[<img src="https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/menu.png" width="100%"/>](Menu)
 
 ## signup Page
-![sign up](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/signin.png?raw=true);
+[<img src="https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/signup.png" width="100%"/>](signup)
 
 ## Take Test Page
-![Symptoms page](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Test.png?raw=true);
+[<img src="https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/taketest.png" width="100%"/>](Home)
 
 ## Reports page
-![Reports page 1](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Reports.png?raw=true);
+[<img src="https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/Repors.png" width="100%"/>](Reports)
 
-## landing page(When user Login into the website)
-![Buy Device page](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/product.png?raw=true);
+## Order page
+[<img src="https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/buydevice.png" width="100%"/>](Order)
 
-## Order Page
-![Payment Page](https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/payment.png?raw=true);
+## Payment Page
+[<img src="https://github.com/kirankumar-medikurthy/Nutrify-Unit-4-Project-/blob/main/nutrify_project_client/public/Nutrify_project_images/payment.png" width="100%"/>](Payment)
 
 
 
