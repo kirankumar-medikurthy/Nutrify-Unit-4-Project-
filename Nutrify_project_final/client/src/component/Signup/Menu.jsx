@@ -1,7 +1,7 @@
 import "./Signup.css";
 // import { useEffect, useState } from "react";
 import React from "react";
-var data = [];
+//var data = [];
 function Menu({handleClick}) {
   //const [data,setData] = useState([]);
   // const [loading, setLoading] = useState(true);

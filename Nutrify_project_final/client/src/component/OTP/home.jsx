@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import "./styleOTP.css"
 // import axios from 'axios';
 // import styles from './styles/home.module.css';
@@ -49,7 +49,7 @@ function Home({nextStep}) {
               <p>Your Device has been connected</p>
           </div>
           <div className="image">
-              <img src="https://images.pond5.com/animation-motion-graphics-check-mark-footage-127154248_iconl.jpeg" alt="image" />
+              <img src="https://images.pond5.com/animation-motion-graphics-check-mark-footage-127154248_iconl.jpeg" alt="foot.png" />
           </div>
           <div className="bottom">
               <button className="btn3" onClick={nextStep}>Done</button>

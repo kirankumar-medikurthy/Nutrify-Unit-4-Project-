@@ -7,7 +7,7 @@ import "./styleOTP.css"
 function OtpVerify(props) {
 	axios.defaults.withCredentials = true;
 
-	const [ error, setError ] = useState({
+	const [setError ] = useState({
 		error: '',
 		success: ''
 	});

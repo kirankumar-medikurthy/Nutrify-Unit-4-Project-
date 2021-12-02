@@ -32,10 +32,9 @@ function PhoneInput(props) {
         <h2 className="auth2heading">Become a Member !</h2>
         <div className="inputfield">
         <input type="text" placeholder="Name" className="input1" /> <br />
-        <input type="text" placeholder="Enter 10 digit monile number"  className="input1" type="tel"
+        <input type="number" placeholder="Enter 10 digit monile number"  className="input1"
 							value={value.phone}
-							onChange={handleChange('phone')}
-							placeholder="Enter the Phone No."/>
+							onChange={handleChange('phone')}/>
         </div>
         <p className="para1">By continuing you agree to <span className="changecolor">Terms of Services</span> and <span className="changecolor">Privacy policy</span></p>
        

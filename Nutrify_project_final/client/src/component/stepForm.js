@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useState } from "react";
 // import "./OTP/styleOTP.css";
 // import "./TestSorting/styleTest.css"
 import Entrancepage from "./Home/Entrancepage";
@@ -8,7 +8,7 @@ import { SplashTwo } from "./Splash_Screen/SplashTwo";
 import PhoneInput from "./OTP/phoneInput";
 import Otpverify from "./OTP/otpVerify";
 import Home from "./OTP/home"
-import {Homepage} from "./Home/Homeone";  
+// import {Homepage} from "./Home/Homeone";  
 //  not woring
 import {Page} from "./Home/Page"
 import {Third} from "./Home/Third"
@@ -20,7 +20,7 @@ import Test4 from './TestSorting/Test4';
 import Test6 from './TestSorting/Test6';
 import {Menu} from "./Signup/Menu";
 // //-----------------------------Sumit paste your code here; --------------->
-import {Nutricon} from "./Payment/Nutricon";
+// import {Nutricon} from "./Payment/Nutricon";
 // import {NutriconSecond} from "./components/Payment/NutriconSecond"
 // import './App.css';
 const StepForm = () => {
@@ -42,7 +42,7 @@ const StepForm = () => {
   //---------  Home----------------
   useEffect(() => {
     handleStep1();
-  }, []);
+  });
 
   const handleStep1 = () => {
     const timer = setInterval(() => {

@@ -1,7 +1,7 @@
 import "./page.css";
 import React from "react";
-import {useEffect,useState} from "react";
-let data = [];
+// import {useEffect,useState} from "react";
+// let data = [];
 function Page({handleStep}){
     // const [loading,setLoading] = useState(true);
     // useEffect(()=>{
@@ -47,15 +47,15 @@ function Page({handleStep}){
                     <div id="text">You can select from below categories</div>        
                     {
                         <div id="icons">
-                            <div className="icon" onClick={handleStep}><img className="img"src="/iconimages/Eye.png" />data1</div>
-                            <div className="icon" onClick={handleStep}><img className="img"src="/iconimages/weight.png" />data2</div>
-                            <div className="icon" onClick={handleStep}><img className="img"src="/iconimages/ear.png" />data3</div>
-                            <div className="icon" onClick={handleStep}><img className="img"src="/iconimages/blood.png" />data4</div>
-                            <div className="icon" onClick={handleStep}><img className="img"src="/iconimages/bones.png" />data5</div>
-                            <div className="icon" onClick={handleStep}><img className="img"src="/iconimages/smile.png" />data6</div>
-                             <div className="icon" onClick={handleStep}><img className="img"src="/iconimages/breathe.png" />data7</div>
-                            <div className="icon" onClick={handleStep}><img className="img"src="/iconimages/joints.png" />data8</div>
-                            <div className="icon" onClick={handleStep}><img className="img"src="/iconimages/energy.png" />data9</div>           
+                            <div className="icon" onClick={handleStep}><img className="img" alt={"images.png"}src="/iconimages/Eye.png" />data1</div>
+                            <div className="icon" onClick={handleStep}><img className="img" alt={"images.png"}src="/iconimages/weight.png" />data2</div>
+                            <div className="icon" onClick={handleStep}><img className="img" alt={"images.png"}src="/iconimages/ear.png" />data3</div>
+                            <div className="icon" onClick={handleStep}><img className="img" alt={"images.png"}src="/iconimages/blood.png" />data4</div>
+                            <div className="icon" onClick={handleStep}><img className="img" alt={"images.png"}src="/iconimages/bones.png" />data5</div>
+                            <div className="icon" onClick={handleStep}><img className="img" alt={"images.png"}src="/iconimages/smile.png" />data6</div>
+                             <div className="icon" onClick={handleStep}><img className="img" alt={"images.png"}src="/iconimages/breathe.png" />data7</div>
+                            <div className="icon" onClick={handleStep}><img className="img" alt={"images.png"}src="/iconimages/joints.png" />data8</div>
+                            <div className="icon" onClick={handleStep}><img className="img" alt={"images.png"}src="/iconimages/energy.png" />data9</div>           
                         </div> 
                     }
                 </div>
